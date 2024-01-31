@@ -1,0 +1,1 @@
+print("Tekst do %s formatowania %i" % ("a", 2))
