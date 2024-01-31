@@ -10,3 +10,4 @@ wiek = int(input())
 print("Dokończ zdanie: życzę Ci...")
 zyczenia = input()
 print(f"Witaj {imie_odbiorcy}! Z okazji twoich {wiek} urodzin, życzę Ci {zyczenia}\n{imie_nadawcy}!")
+#ver1.0
