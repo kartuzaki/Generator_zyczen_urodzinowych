@@ -1,4 +1,4 @@
-print("Witaj w Życzeniomacie!\nPodaj swoje imię, imię jubilata, rok w którym się urodził, oraz napisz czego mu życzysz!")
+print("Witaj w Życzeniomacie!")
 print("Wciśnij ENTER aby przejść dalej...")
 input()
 print("Podaj swoje imię:") 
