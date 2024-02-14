@@ -1,0 +1,13 @@
+print("Witaj w Życzeniomacie!\nPodaj swoje imię, imię jubilata, rok w którym się urodził, oraz napisz czego mu życzysz!")
+print("Wciśnij ENTER aby przejść dalej...")
+input()
+print("Podaj swoje imię:") 
+imie_nadawcy = input()
+print("Podaj imię jubilat/ka:")
+imie_odbiorcy = input()
+print("Podaj ile lat ma jubilat/ka:")
+wiek = int(input())
+print("Dokończ zdanie: życzę Ci...")
+zyczenia = input()
+print(f"Witaj {imie_odbiorcy}! Z okazji twoich {wiek} urodzin, życzę Ci {zyczenia}\n{imie_nadawcy}!")
+#ver1.0
